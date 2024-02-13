@@ -1,0 +1,197 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html,body {
+height: 100%;
+width: 100%;
+}
+
+header{
+  float: left;
+  width: 100%;
+  min-height: 80px;
+  height: auto;
+  background-color: pink;
+}
+.header-wraper{
+  width: 1170px;
+  height: 80px;
+  margin: 0 auto;
+  background-color: rgb(255, 114, 137);
+}
+.logo{
+  width: 21.36%;
+  height: 80px;
+  background-color: red;
+  float: left;
+}
+nav{
+  width: 59.82%;
+  height: 80px;
+  background-color: greenyellow;
+  float: right;
+}
+
+.banner{
+  width: 100%;
+  height: 450px;
+  background-color: #999;
+}
+
+
+
+
+
+/******************************************************************
+* here our welcome part start 
+*******************************************************************/
+
+.welcome{
+  width:1170px;
+  height: 300px;
+  background-color: skyblue;
+  margin: 0 auto;
+}
+.welcome .welimg{
+  float: left;
+  width: 49.5%;
+  height: 100%;
+  margin: 0 10px 0 0;
+  background-color: rgb(217, 235, 135);
+}
+.welcome .weltext{
+  width: 49.5%;
+  height: 100%;
+  float: right;
+  background-color: rgb(217, 235, 135);
+}
+
+
+/******************************************************************
+* Here Service Part Start 
+*******************************************************************/
+
+.service{
+  width: 1170px;
+  height: 300px;
+  background-color: orange;
+  margin: 0 auto;
+}
+
+.ser1{
+  width: 20%;
+  height: 80%;
+  background-color: black;
+  float: left;
+  margin: 2% 0 0 4%;
+}
+
+
+
+
+
+
+/******************************************************************
+* Here our main part start  
+*******************************************************************/
+
+main{
+  width: 1170px;
+  height: 400px;
+
+  background-color: rgb(235, 145, 135);
+  margin: 0 auto;
+  
+
+}
+.main1{
+  
+  width: 49.5%;
+  height: 99%;
+  background-color: rgb(255, 119, 244);
+  float: left;
+  
+}
+.news{
+  width: 80%;
+  height: 40%;
+  background-color: green;
+  margin: 5% auto;
+}
+.events{
+  width: 80%;
+  height: 40%;
+  background-color: rgb(0, 255, 0);
+ margin: 0 auto;
+}
+.form{
+  width: 49.5%;
+  height: 99%;
+  background-color: rgb(58, 143, 255);
+  float: right;
+}
+
+
+
+/******************************************************************
+* Here Start our Footer Logos  
+*******************************************************************/
+
+
+.footerlogo{
+  width: 1170px;
+  height: 100px;
+  background-color: aqua;
+  margin: 0 auto;
+}
+.flogo{
+  width: 10% ;
+  height: 90%;
+  background-color: black;
+  float: left;
+  margin: .5% 2% 0 .5%;
+}
+
+
+/******************************************************************
+* Here start our Address Part 
+*******************************************************************/
+
+
+address{
+  width: 1170px;
+  height: 400px;
+  background-color: brown;
+  margin: 0 auto;
+}
+
+.add1{
+  width: 29% ;
+  height: 90%;
+  background-color: red;
+  float: left;
+  margin: 2%;
+}
+
+
+/******************************************************************
+* Here start our Footer Part 
+*******************************************************************/
+
+
+footer{
+  width: 1170px;
+  height: 200px;
+  margin: 0 auto;
+  background-color: rgb(219, 0, 183);
+}
+.foot1{
+  width: 23%;
+  height: 90%;
+  background-color: yellow;
+  float: left;
+  margin: .5% 1% ;
+
+}
