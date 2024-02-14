@@ -557,7 +557,7 @@ address{
     height: 32%;
     background-color: red;
     float: left;
-    margin: .5%;
+    margin: .5% 0;
   }
 
   
